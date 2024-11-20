@@ -16,5 +16,5 @@ GitHub is a cloud-based platform where you can store, share, and work together w
 * CI/CD integration
 * support for open-source projects.
 <img src="https://cdn-icons-png.flaticon.com/128/733/733609.png" >
-This is the **Github** logo
+This is the ** Github ** logo
 The GitHub logo features a "Octocat", a cat-octopus hybrid, symbolizing creativity, collaboration, and versatility. It reflects GitHub's role as a hub for diverse coding projects and developer communities worldwide.
