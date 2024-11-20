@@ -5,7 +5,7 @@ Git is a version control system that allows developers to track changes in their
 This is the **Git** logo
 The orange, white and black color palette of the Git visual identity is a reflection or energy and dynamics, as well as professionalism and authority.
 
-#### Github 
+## Github 
 GitHub is a cloud-based platform where you can store, share, and work together with others to write code.
 ### key feauture
 * Centralized code storage
